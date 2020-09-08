@@ -119,10 +119,10 @@ MonoBehaviour:
   _basicWaveSettings:
     numWaves: 6
     amplitude: 0.6
-    direction: -176
+    direction: -38
     wavelength: 8
   _foamSettings:
-    foamType: 1
+    foamType: 0
     basicFoam:
       serializedVersion: 2
       m_Curve:
